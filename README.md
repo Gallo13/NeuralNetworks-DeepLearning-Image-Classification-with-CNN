@@ -27,5 +27,10 @@ the one below.
 Implement any ENSEMBLING you want and present the results in a table as shown below as well
 as confusion matrix of your ensemble:
 
+-----------------------------------------------------------------------------------------------------
 EDIT:
 ** Forgot ensambling and need to fix contfusion matrix **
+
+-----------------------------------------------------------------------------------------------------
+NNDL_Proj1_Problem1: added to repositroy to show how I initially manipulated the dataset
+NNDL_Proj1_Problems1&2: official fully done project (forgot ensembling and confusion matrix is not colored)
